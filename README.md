@@ -52,3 +52,11 @@
 Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
 
 [<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+
+Please help revise the below info as description：
+
+We believe opportunities aren't just about where you come from, your schools, xxxx. We also believe people have the will to transform their careers.
+
+Inspired by Reach program hosted by Linkedin, we designed a mobile web app so that mentors with expertise or similar backgrounds could help those who needs some help on the career path or thoses who is looking for a career transformation. That's a big deal for a person.
+
+To spread the project, we invite the user to add their linkedin profile link(with linkedin plugin should be better) so they could leverage the platform to build closer connection when the mentor mentee relationship is matched. We could also leverage certain platforms like wechat or other certain ecosystems to invite new users.
